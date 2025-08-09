@@ -1,1 +1,1 @@
-Hi, I'm GitHub@bcggxx, my email address is beibeimihuo@gmail.com
+This account is no longer in use
