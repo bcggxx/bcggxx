@@ -7,11 +7,6 @@ on:
   
   # 允许手动点击按钮触发运行
   workflow_dispatch:
-  
-  # 每次 push 到 main 分支时触发
-  push:
-    branches:
-    - main
 
 jobs:
   generate:
