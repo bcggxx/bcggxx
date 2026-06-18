@@ -10,7 +10,7 @@
   "title": "Top 10 Repositories by Visitors",
   "data": {
     "values": [
-      {"repository": "NonGKI_Kernel_Build_2nd", "views": 323}, {"repository": "n0_kernel_pipa", "views": 246}
+      {"repository": "NonGKI_Kernel_Build_2nd", "views": 390}, {"repository": "n0_kernel_pipa", "views": 261}
     ]
   },
   "mark": {
@@ -33,7 +33,7 @@
   "title": "Top 10 Repositories by Git Clones",
   "data": {
     "values": [
-      {"repository": "n0_kernel_pipa", "clones": 288}, {"repository": "NonGKI_Kernel_Build_2nd", "clones": 247}
+      {"repository": "NonGKI_Kernel_Build_2nd", "clones": 406}, {"repository": "n0_kernel_pipa", "clones": 345}
     ]
   },
   "mark": {
@@ -81,6 +81,7 @@
       {"date": "2026-06-14", "type": "Total Views", "value": 108},
       {"date": "2026-06-15", "type": "Total Views", "value": 16},
       {"date": "2026-06-16", "type": "Total Views", "value": 38},
+      {"date": "2026-06-17", "type": "Total Views", "value": 15},
       {"date": "2026-05-31", "type": "Unique Views", "value": 0},
       {"date": "2026-06-01", "type": "Unique Views", "value": 1},
       {"date": "2026-06-02", "type": "Unique Views", "value": 0},
@@ -97,7 +98,8 @@
       {"date": "2026-06-13", "type": "Unique Views", "value": 0},
       {"date": "2026-06-14", "type": "Unique Views", "value": 1},
       {"date": "2026-06-15", "type": "Unique Views", "value": 1},
-      {"date": "2026-06-16", "type": "Unique Views", "value": 1}
+      {"date": "2026-06-16", "type": "Unique Views", "value": 1},
+      {"date": "2026-06-17", "type": "Unique Views", "value": 1}
     ]
   },
   "mark": "line",
@@ -156,6 +158,7 @@
       {"date": "2026-06-14", "type": "Total Clones", "value": 89},
       {"date": "2026-06-15", "type": "Total Clones", "value": 44},
       {"date": "2026-06-16", "type": "Total Clones", "value": 15},
+      {"date": "2026-06-17", "type": "Total Clones", "value": 57},
       {"date": "2026-05-31", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-02", "type": "Unique Clones", "value": 1},
@@ -172,7 +175,8 @@
       {"date": "2026-06-13", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-14", "type": "Unique Clones", "value": 40},
       {"date": "2026-06-15", "type": "Unique Clones", "value": 28},
-      {"date": "2026-06-16", "type": "Unique Clones", "value": 9}
+      {"date": "2026-06-16", "type": "Unique Clones", "value": 9},
+      {"date": "2026-06-17", "type": "Unique Clones", "value": 32}
     ]
   },
   "mark": "line",
@@ -208,7 +212,7 @@
 
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
-| github.com | 60 | 2 |
+| github.com | 62 | 2 |
 
 ### bcggxx/NonGKI_Kernel_Build_2nd
 
@@ -241,6 +245,7 @@
       {"date": "2026-06-14", "type": "Total Views", "value": 34},
       {"date": "2026-06-15", "type": "Total Views", "value": 23},
       {"date": "2026-06-16", "type": "Total Views", "value": 16},
+      {"date": "2026-06-17", "type": "Total Views", "value": 67},
       {"date": "2026-06-01", "type": "Unique Views", "value": 0},
       {"date": "2026-06-02", "type": "Unique Views", "value": 0},
       {"date": "2026-06-03", "type": "Unique Views", "value": 0},
@@ -256,7 +261,8 @@
       {"date": "2026-06-13", "type": "Unique Views", "value": 1},
       {"date": "2026-06-14", "type": "Unique Views", "value": 1},
       {"date": "2026-06-15", "type": "Unique Views", "value": 1},
-      {"date": "2026-06-16", "type": "Unique Views", "value": 1}
+      {"date": "2026-06-16", "type": "Unique Views", "value": 1},
+      {"date": "2026-06-17", "type": "Unique Views", "value": 1}
     ]
   },
   "mark": "line",
@@ -314,6 +320,7 @@
       {"date": "2026-06-14", "type": "Total Clones", "value": 9},
       {"date": "2026-06-15", "type": "Total Clones", "value": 13},
       {"date": "2026-06-16", "type": "Total Clones", "value": 26},
+      {"date": "2026-06-17", "type": "Total Clones", "value": 159},
       {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-03", "type": "Unique Clones", "value": 0},
@@ -329,7 +336,8 @@
       {"date": "2026-06-13", "type": "Unique Clones", "value": 6},
       {"date": "2026-06-14", "type": "Unique Clones", "value": 6},
       {"date": "2026-06-15", "type": "Unique Clones", "value": 7},
-      {"date": "2026-06-16", "type": "Unique Clones", "value": 11}
+      {"date": "2026-06-16", "type": "Unique Clones", "value": 11},
+      {"date": "2026-06-17", "type": "Unique Clones", "value": 26}
     ]
   },
   "mark": "line",
@@ -365,5 +373,5 @@
 
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
-| github.com | 36 | 1 |
+| github.com | 38 | 1 |
 
