@@ -10,7 +10,7 @@
   "title": "Top 10 Repositories by Visitors",
   "data": {
     "values": [
-      {"repository": "NonGKI_Kernel_Build_2nd", "views": 393}, {"repository": "n0_kernel_pipa", "views": 272}
+      {"repository": "NonGKI_Kernel_Build_2nd", "views": 406}, {"repository": "android_kernel_xiaomi_n0_pipa", "views": 272}
     ]
   },
   "mark": {
@@ -33,7 +33,7 @@
   "title": "Top 10 Repositories by Git Clones",
   "data": {
     "values": [
-      {"repository": "NonGKI_Kernel_Build_2nd", "clones": 416}, {"repository": "n0_kernel_pipa", "clones": 354}
+      {"repository": "NonGKI_Kernel_Build_2nd", "clones": 473}, {"repository": "android_kernel_xiaomi_n0_pipa", "clones": 400}
     ]
   },
   "mark": {
@@ -49,27 +49,21 @@
 
 ## Repository Breakdown
 
-### bcggxx/n0_kernel_pipa
+### bcggxx/android_kernel_xiaomi_n0_pipa
 
-[![GitHub Repo](https://img.shields.io/badge/-Repository-white?logo=github&logoColor=181717&style=social)](https://github.com/bcggxx/n0_kernel_pipa)&nbsp;
-[![GitHub Stars](https://img.shields.io/github/stars/bcggxx/n0_kernel_pipa?style=social)](https://github.com/bcggxx/n0_kernel_pipa/stargazers)&nbsp;
-[![GitHub Forks](https://img.shields.io/github/forks/bcggxx/n0_kernel_pipa?style=social)](https://github.com/bcggxx/n0_kernel_pipa/network/members)&nbsp;
-[![GitHub Watchers](https://img.shields.io/github/watchers/bcggxx/n0_kernel_pipa?style=social)](https://github.com/bcggxx/n0_kernel_pipa/watchers)
+[![GitHub Repo](https://img.shields.io/badge/-Repository-white?logo=github&logoColor=181717&style=social)](https://github.com/bcggxx/android_kernel_xiaomi_n0_pipa)&nbsp;
+[![GitHub Stars](https://img.shields.io/github/stars/bcggxx/android_kernel_xiaomi_n0_pipa?style=social)](https://github.com/bcggxx/android_kernel_xiaomi_n0_pipa/stargazers)&nbsp;
+[![GitHub Forks](https://img.shields.io/github/forks/bcggxx/android_kernel_xiaomi_n0_pipa?style=social)](https://github.com/bcggxx/android_kernel_xiaomi_n0_pipa/network/members)&nbsp;
+[![GitHub Watchers](https://img.shields.io/github/watchers/bcggxx/android_kernel_xiaomi_n0_pipa?style=social)](https://github.com/bcggxx/android_kernel_xiaomi_n0_pipa/watchers)
 
 
 ```vega
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "width": 800,
-  "title": "Visitors for bcggxx/n0_kernel_pipa",
+  "title": "Visitors for bcggxx/android_kernel_xiaomi_n0_pipa",
   "data": {
     "values": [
-      {"date": "2026-05-31", "type": "Total Views", "value": 0},
-      {"date": "2026-06-01", "type": "Total Views", "value": 1},
-      {"date": "2026-06-02", "type": "Total Views", "value": 0},
-      {"date": "2026-06-03", "type": "Total Views", "value": 0},
-      {"date": "2026-06-04", "type": "Total Views", "value": 2},
-      {"date": "2026-06-05", "type": "Total Views", "value": 0},
       {"date": "2026-06-06", "type": "Total Views", "value": 0},
       {"date": "2026-06-07", "type": "Total Views", "value": 0},
       {"date": "2026-06-08", "type": "Total Views", "value": 0},
@@ -83,12 +77,7 @@
       {"date": "2026-06-16", "type": "Total Views", "value": 38},
       {"date": "2026-06-17", "type": "Total Views", "value": 15},
       {"date": "2026-06-18", "type": "Total Views", "value": 11},
-      {"date": "2026-05-31", "type": "Unique Views", "value": 0},
-      {"date": "2026-06-01", "type": "Unique Views", "value": 1},
-      {"date": "2026-06-02", "type": "Unique Views", "value": 0},
-      {"date": "2026-06-03", "type": "Unique Views", "value": 0},
-      {"date": "2026-06-04", "type": "Unique Views", "value": 1},
-      {"date": "2026-06-05", "type": "Unique Views", "value": 0},
+      {"date": "2026-06-19", "type": "Total Views", "value": 3},
       {"date": "2026-06-06", "type": "Unique Views", "value": 0},
       {"date": "2026-06-07", "type": "Unique Views", "value": 0},
       {"date": "2026-06-08", "type": "Unique Views", "value": 0},
@@ -101,7 +90,8 @@
       {"date": "2026-06-15", "type": "Unique Views", "value": 1},
       {"date": "2026-06-16", "type": "Unique Views", "value": 1},
       {"date": "2026-06-17", "type": "Unique Views", "value": 1},
-      {"date": "2026-06-18", "type": "Unique Views", "value": 1}
+      {"date": "2026-06-18", "type": "Unique Views", "value": 1},
+      {"date": "2026-06-19", "type": "Unique Views", "value": 1}
     ]
   },
   "mark": "line",
@@ -140,15 +130,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v6.json",
   "width": 800,
-  "title": "Git Clones for bcggxx/n0_kernel_pipa",
+  "title": "Git Clones for bcggxx/android_kernel_xiaomi_n0_pipa",
   "data": {
     "values": [
-      {"date": "2026-05-31", "type": "Total Clones", "value": 1},
-      {"date": "2026-06-01", "type": "Total Clones", "value": 0},
-      {"date": "2026-06-02", "type": "Total Clones", "value": 1},
-      {"date": "2026-06-03", "type": "Total Clones", "value": 1},
-      {"date": "2026-06-04", "type": "Total Clones", "value": 3},
-      {"date": "2026-06-05", "type": "Total Clones", "value": 0},
       {"date": "2026-06-06", "type": "Total Clones", "value": 2},
       {"date": "2026-06-07", "type": "Total Clones", "value": 6},
       {"date": "2026-06-08", "type": "Total Clones", "value": 3},
@@ -162,12 +146,7 @@
       {"date": "2026-06-16", "type": "Total Clones", "value": 15},
       {"date": "2026-06-17", "type": "Total Clones", "value": 57},
       {"date": "2026-06-18", "type": "Total Clones", "value": 9},
-      {"date": "2026-05-31", "type": "Unique Clones", "value": 1},
-      {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
-      {"date": "2026-06-02", "type": "Unique Clones", "value": 1},
-      {"date": "2026-06-03", "type": "Unique Clones", "value": 1},
-      {"date": "2026-06-04", "type": "Unique Clones", "value": 2},
-      {"date": "2026-06-05", "type": "Unique Clones", "value": 0},
+      {"date": "2026-06-19", "type": "Total Clones", "value": 52},
       {"date": "2026-06-06", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-07", "type": "Unique Clones", "value": 6},
       {"date": "2026-06-08", "type": "Unique Clones", "value": 3},
@@ -180,7 +159,8 @@
       {"date": "2026-06-15", "type": "Unique Clones", "value": 28},
       {"date": "2026-06-16", "type": "Unique Clones", "value": 9},
       {"date": "2026-06-17", "type": "Unique Clones", "value": 32},
-      {"date": "2026-06-18", "type": "Unique Clones", "value": 6}
+      {"date": "2026-06-18", "type": "Unique Clones", "value": 6},
+      {"date": "2026-06-19", "type": "Unique Clones", "value": 14}
     ]
   },
   "mark": "line",
@@ -216,7 +196,7 @@
 
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
-| github.com | 61 | 2 |
+| github.com | 63 | 2 |
 
 ### bcggxx/NonGKI_Kernel_Build_2nd
 
@@ -251,6 +231,7 @@
       {"date": "2026-06-16", "type": "Total Views", "value": 16},
       {"date": "2026-06-17", "type": "Total Views", "value": 67},
       {"date": "2026-06-18", "type": "Total Views", "value": 3},
+      {"date": "2026-06-19", "type": "Total Views", "value": 13},
       {"date": "2026-06-01", "type": "Unique Views", "value": 0},
       {"date": "2026-06-02", "type": "Unique Views", "value": 0},
       {"date": "2026-06-03", "type": "Unique Views", "value": 0},
@@ -268,7 +249,8 @@
       {"date": "2026-06-15", "type": "Unique Views", "value": 1},
       {"date": "2026-06-16", "type": "Unique Views", "value": 1},
       {"date": "2026-06-17", "type": "Unique Views", "value": 1},
-      {"date": "2026-06-18", "type": "Unique Views", "value": 2}
+      {"date": "2026-06-18", "type": "Unique Views", "value": 2},
+      {"date": "2026-06-19", "type": "Unique Views", "value": 1}
     ]
   },
   "mark": "line",
@@ -328,6 +310,7 @@
       {"date": "2026-06-16", "type": "Total Clones", "value": 26},
       {"date": "2026-06-17", "type": "Total Clones", "value": 159},
       {"date": "2026-06-18", "type": "Total Clones", "value": 10},
+      {"date": "2026-06-19", "type": "Total Clones", "value": 57},
       {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-03", "type": "Unique Clones", "value": 0},
@@ -345,7 +328,8 @@
       {"date": "2026-06-15", "type": "Unique Clones", "value": 7},
       {"date": "2026-06-16", "type": "Unique Clones", "value": 11},
       {"date": "2026-06-17", "type": "Unique Clones", "value": 26},
-      {"date": "2026-06-18", "type": "Unique Clones", "value": 5}
+      {"date": "2026-06-18", "type": "Unique Clones", "value": 5},
+      {"date": "2026-06-19", "type": "Unique Clones", "value": 11}
     ]
   },
   "mark": "line",
