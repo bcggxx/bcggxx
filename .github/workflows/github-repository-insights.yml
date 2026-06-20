@@ -24,7 +24,7 @@ jobs:
       - name: Generate GitHub Insights
         uses: emillg/github-repo-insights@v1.2.1
         with:
-          repos: "bcggxx/n0_kernel_pipa,bcggxx/NonGKI_Kernel_Build_2nd"
+          repos: "bcggxx/android_kernel_xiaomi_n0_pipa,bcggxx/NonGKI_Kernel_Build_2nd"
           pat-token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit and push insights
