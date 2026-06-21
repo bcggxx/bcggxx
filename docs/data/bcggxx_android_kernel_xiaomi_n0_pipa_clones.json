@@ -69,6 +69,11 @@
             "timestamp": "2026-06-19T00:00:00Z",
             "count": 52,
             "uniques": 14
+        },
+        {
+            "timestamp": "2026-06-20T00:00:00Z",
+            "count": 78,
+            "uniques": 38
         }
     ]
 }
