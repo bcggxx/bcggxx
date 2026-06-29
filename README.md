@@ -3,7 +3,7 @@
 
 ![Snake animation](https://raw.githubusercontent.com/bcggxx/bcggxx/output/github-snake.svg)
 
-![](https://komarev.com/ghpvc/?username=bcggxx&color=blue)
+![](https://komarev.com/ghpvc/?username=bcggxx&color=blue)  [![GitHub Roast 评分徽章](https://githubroast.dev/api/badge/bcggxx)](https://githubroast.dev/u/bcggxx)
 
 [![GitHub Roast](https://githubroast.dev/api/card/bcggxx)](https://githubroast.dev/u/bcggxx)
 
