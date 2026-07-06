@@ -10,7 +10,7 @@
   "title": "Top 10 Repositories by Visitors",
   "data": {
     "values": [
-      {"repository": "NonGKI_Kernel_Build_2nd", "views": 689}, {"repository": "android_kernel_xiaomi_n0_pipa", "views": 544}
+      {"repository": "NonGKI_Kernel_Build_2nd", "views": 749}, {"repository": "android_kernel_xiaomi_n0_pipa", "views": 549}
     ]
   },
   "mark": {
@@ -33,7 +33,7 @@
   "title": "Top 10 Repositories by Git Clones",
   "data": {
     "values": [
-      {"repository": "NonGKI_Kernel_Build_2nd", "clones": 908}, {"repository": "android_kernel_xiaomi_n0_pipa", "clones": 804}
+      {"repository": "NonGKI_Kernel_Build_2nd", "clones": 960}, {"repository": "android_kernel_xiaomi_n0_pipa", "clones": 811}
     ]
   },
   "mark": {
@@ -93,6 +93,7 @@
       {"date": "2026-07-02", "type": "Total Views", "value": 11},
       {"date": "2026-07-03", "type": "Total Views", "value": 2},
       {"date": "2026-07-04", "type": "Total Views", "value": 7},
+      {"date": "2026-07-05", "type": "Total Views", "value": 5},
       {"date": "2026-06-06", "type": "Unique Views", "value": 0},
       {"date": "2026-06-07", "type": "Unique Views", "value": 0},
       {"date": "2026-06-08", "type": "Unique Views", "value": 0},
@@ -121,7 +122,8 @@
       {"date": "2026-07-01", "type": "Unique Views", "value": 2},
       {"date": "2026-07-02", "type": "Unique Views", "value": 2},
       {"date": "2026-07-03", "type": "Unique Views", "value": 1},
-      {"date": "2026-07-04", "type": "Unique Views", "value": 2}
+      {"date": "2026-07-04", "type": "Unique Views", "value": 2},
+      {"date": "2026-07-05", "type": "Unique Views", "value": 1}
     ]
   },
   "mark": "line",
@@ -192,6 +194,7 @@
       {"date": "2026-07-02", "type": "Total Clones", "value": 13},
       {"date": "2026-07-03", "type": "Total Clones", "value": 5},
       {"date": "2026-07-04", "type": "Total Clones", "value": 4},
+      {"date": "2026-07-05", "type": "Total Clones", "value": 7},
       {"date": "2026-06-06", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-07", "type": "Unique Clones", "value": 6},
       {"date": "2026-06-08", "type": "Unique Clones", "value": 3},
@@ -220,7 +223,8 @@
       {"date": "2026-07-01", "type": "Unique Clones", "value": 7},
       {"date": "2026-07-02", "type": "Unique Clones", "value": 8},
       {"date": "2026-07-03", "type": "Unique Clones", "value": 5},
-      {"date": "2026-07-04", "type": "Unique Clones", "value": 3}
+      {"date": "2026-07-04", "type": "Unique Clones", "value": 3},
+      {"date": "2026-07-05", "type": "Unique Clones", "value": 6}
     ]
   },
   "mark": "line",
@@ -256,8 +260,9 @@
 
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
-| github.com | 45 | 2 |
+| github.com | 36 | 2 |
 | Bing | 6 | 4 |
+| bcggxx.github.io | 1 | 1 |
 
 ### bcggxx/NonGKI_Kernel_Build_2nd
 
@@ -308,6 +313,7 @@
       {"date": "2026-07-02", "type": "Total Views", "value": 7},
       {"date": "2026-07-03", "type": "Total Views", "value": 29},
       {"date": "2026-07-04", "type": "Total Views", "value": 6},
+      {"date": "2026-07-05", "type": "Total Views", "value": 60},
       {"date": "2026-06-01", "type": "Unique Views", "value": 0},
       {"date": "2026-06-02", "type": "Unique Views", "value": 0},
       {"date": "2026-06-03", "type": "Unique Views", "value": 0},
@@ -341,7 +347,8 @@
       {"date": "2026-07-01", "type": "Unique Views", "value": 1},
       {"date": "2026-07-02", "type": "Unique Views", "value": 1},
       {"date": "2026-07-03", "type": "Unique Views", "value": 2},
-      {"date": "2026-07-04", "type": "Unique Views", "value": 3}
+      {"date": "2026-07-04", "type": "Unique Views", "value": 3},
+      {"date": "2026-07-05", "type": "Unique Views", "value": 3}
     ]
   },
   "mark": "line",
@@ -417,6 +424,7 @@
       {"date": "2026-07-02", "type": "Total Clones", "value": 37},
       {"date": "2026-07-03", "type": "Total Clones", "value": 5},
       {"date": "2026-07-04", "type": "Total Clones", "value": 2},
+      {"date": "2026-07-05", "type": "Total Clones", "value": 52},
       {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-03", "type": "Unique Clones", "value": 0},
@@ -450,7 +458,8 @@
       {"date": "2026-07-01", "type": "Unique Clones", "value": 2},
       {"date": "2026-07-02", "type": "Unique Clones", "value": 2},
       {"date": "2026-07-03", "type": "Unique Clones", "value": 1},
-      {"date": "2026-07-04", "type": "Unique Clones", "value": 1}
+      {"date": "2026-07-04", "type": "Unique Clones", "value": 1},
+      {"date": "2026-07-05", "type": "Unique Clones", "value": 2}
     ]
   },
   "mark": "line",
@@ -486,5 +495,5 @@
 
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
-| github.com | 41 | 5 |
+| github.com | 39 | 7 |
 
