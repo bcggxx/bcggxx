@@ -1,9 +1,22 @@
-![](https://komarev.com/ghpvc/?username=bcggxx&color=blue)  [![GitHub Roast 评分徽章](https://ghfind.com/api/badge/bcggxx)](https://ghfind.com/u/bcggxx?ref=badge)
+<h1 align="center">你好，我是 bcggxx 👋</h1>
+<h3 align="center">Hi there, I'm bcggxx 👋</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bcggxx&color=blue" alt="views"/>
+  <a href="https://ghfind.com/u/bcggxx?ref=badge"><img src="https://ghfind.com/api/badge/bcggxx" alt="roast"/></a>
+</p>
 
-![bcggxx GitHub stats](https://github-readme-stats.vercel.app/api?username=bcggxx&show_icons=true&theme=dark)
+## 环境 / Environment
+<p>
+  <img src="https://badgen.net/badge/Windows%2011/Professional/00bbff?icon=windows"/>
+  <img src="https://badgen.net/badge/WSL%20Ubuntu/26.04/DD4814?icon=ubuntu"/>
+  <img src="https://badgen.net/badge/Xiaomi/Pad%206/FD4900?icon=xiaomi"/>
+</p>
 
-![Snake animation](https://raw.githubusercontent.com/bcggxx/bcggxx/output/github-snake.svg)
+## 统计 / Stats
+<img src="https://metrics.lecoq.io/bcggxx?template=classic&theme=dark" alt="metrics"/>
 
+## 账户评分 / Roast
 [![GitHub Roast](https://ghfind.com/api/card/bcggxx?theme=dark)](https://ghfind.com/u/bcggxx?ref=badge)
 
-Email/邮箱:bcggxx@126.com
+## 联系 / Contact
+Email: bcggxx@126.com
