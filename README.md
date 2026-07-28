@@ -18,5 +18,7 @@
 ## 账户评分 / Roast
 [![GitHub Roast](https://ghfind.com/api/card/bcggxx?theme=dark)](https://ghfind.com/u/bcggxx?ref=badge)
 
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/bcggxx?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/bcggxx?ref=badge) [![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/bcggxx?theme=dark&lang=zh)](https://ghfind.com/u/bcggxx?ref=badge)
+
 ## 联系 / Contact
 Email: bcggxx@126.com
