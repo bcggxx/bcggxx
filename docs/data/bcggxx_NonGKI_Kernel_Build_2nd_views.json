@@ -289,6 +289,11 @@
             "timestamp": "2026-07-28T00:00:00Z",
             "count": 38,
             "uniques": 3
+        },
+        {
+            "timestamp": "2026-07-29T00:00:00Z",
+            "count": 30,
+            "uniques": 5
         }
     ]
 }
