@@ -16,9 +16,18 @@
 <img src="https://metrics.lecoq.io/bcggxx?template=classic&theme=dark" alt="metrics"/>
 
 ## 账户评分 / Roast
-[![GitHub Roast](https://ghfind.com/api/card/bcggxx?theme=dark)](https://ghfind.com/u/bcggxx?ref=badge)
-
-[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/bcggxx?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/bcggxx?ref=badge) [![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/bcggxx?theme=dark&lang=zh)](https://ghfind.com/u/bcggxx?ref=badge)
+<a href="https://ghfind.com/u/bcggxx?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/bcggxx?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/bcggxx?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
+<a href="https://ghfind.com/u/bcggxx?ref=badge">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/bcggxx?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/bcggxx?theme=light" alt="GitHub Roast 评分卡" width="440" />
+  </picture>
+</a>
 
 ## 联系 / Contact
 Email: bcggxx@126.com
