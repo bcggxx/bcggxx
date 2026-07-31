@@ -30,4 +30,4 @@
 </a>
 
 ## 联系 / Contact
-Email: bcggxx@126.com
+邮箱 / Email: bcggxx@126.com 酷安 / Coolapk: 小透明7号
