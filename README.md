@@ -13,7 +13,7 @@
 </p>
 
 ## 统计 / Stats
-<img src="https://metrics.lecoq.io/bcggxx?template=classic&theme=dark" alt="metrics"/>
+<img src="https://raw.githubusercontent.com/bcggxx/bcggxx/main/github-metrics.svg" alt="metrics"/>
 
 ## 账户评分 / Roast
 <a href="https://ghfind.com/u/bcggxx?ref=badge">
