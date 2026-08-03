@@ -1,0 +1,23 @@
+name: Metrics
+
+on:
+  # 每天自动运行一次
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动点击按钮触发运行
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate self-hosted metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          template: classic
+          theme: dark
+          filename: github-metrics.svg
+          config_timezone: Asia/Shanghai
