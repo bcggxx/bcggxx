@@ -20,8 +20,10 @@ jobs:
       - name: Generate self-hosted metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.PAT_TOKEN }}
+          # 使用 GITHUB_TOKEN(fine-grained PAT 不支持 GraphQL,无法用于 metrics)
+          # 注意: GITHUB_TOKEN 属主是 github-actions[bot],所以必须显式指定 user
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: bcggxx
           template: classic
-          theme: dark
           filename: github-metrics.svg
           config_timezone: Asia/Shanghai
