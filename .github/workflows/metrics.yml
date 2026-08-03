@@ -1,9 +1,13 @@
 name: Metrics
 
 on:
-  # 每天自动运行一次
+  # 每12小时自动运行一次
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *"
+  # 每次 push 时触发(忽略 metrics 自动提交的产物,避免循环触发)
+  push:
+    paths-ignore:
+      - "github-metrics.svg"
   # 允许手动点击按钮触发运行
   workflow_dispatch:
 
