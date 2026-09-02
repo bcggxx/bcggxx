@@ -10,6 +10,7 @@
   <img src="https://badgen.net/badge/Windows%2011/Professional/00bbff?icon=windows"/>
   <img src="https://badgen.net/badge/WSL%20Ubuntu/26.04/DD4814?icon=ubuntu"/>
   <img src="https://badgen.net/badge/Xiaomi/Pad%206/FD4900?icon=xiaomi"/>
+  <img src="https://badgen.net/badge/Xiaomi/12S%20Pro/FD4900?icon=xiaomi"/>
 </p>
 
 ## 统计 / Stats
