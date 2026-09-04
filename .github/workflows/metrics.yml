@@ -17,13 +17,30 @@ jobs:
     permissions:
       contents: write
     steps:
+      # 校验 METRICS_TOKEN 是否有效;过期/无效时回退到 GITHUB_TOKEN,避免 Bad credentials 导致运行失败
+      - name: Validate token and fallback
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "$METRICS_TOKEN" ] && \
+             curl -sf -H "Authorization: Bearer $METRICS_TOKEN" -o /dev/null https://api.github.com/user; then
+            echo "METRICS_TOKEN is valid"
+            echo "METRICS_TOKEN_RESOLVED=$METRICS_TOKEN" >> "$GITHUB_ENV"
+          else
+            if [ -n "$METRICS_TOKEN" ]; then
+              echo "::warning::METRICS_TOKEN invalid or expired, falling back to GITHUB_TOKEN (incomplete data). Please update the secret."
+            fi
+            echo "METRICS_TOKEN_RESOLVED=$GITHUB_TOKEN" >> "$GITHUB_ENV"
+          fi
+
       - name: Generate self-hosted metrics
         uses: lowlighter/metrics@latest
         with:
           # 优先使用 classic PAT(完整数据:仓库数、磁盘占用、私有贡献等)
-          # 未配置 METRICS_TOKEN 时回退到 GITHUB_TOKEN(仓库作用域,数据不完整)
+          # 若 METRICS_TOKEN 过期或未配置,上方校验步骤会自动回退到 GITHUB_TOKEN(仓库作用域,数据不完整)
           # 注意: fine-grained PAT 不支持 GraphQL 认证,不能用于 metrics
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ env.METRICS_TOKEN_RESOLVED }}
           user: bcggxx
           template: classic
           filename: github-metrics.svg
