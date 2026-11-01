@@ -211,6 +211,7 @@
       {"date": "2026-10-28", "type": "Total Views", "value": 15},
       {"date": "2026-10-29", "type": "Total Views", "value": 8},
       {"date": "2026-10-30", "type": "Total Views", "value": 1},
+      {"date": "2026-10-31", "type": "Total Views", "value": 0},
       {"date": "2026-06-06", "type": "Unique Views", "value": 0},
       {"date": "2026-06-07", "type": "Unique Views", "value": 0},
       {"date": "2026-06-08", "type": "Unique Views", "value": 0},
@@ -357,7 +358,8 @@
       {"date": "2026-10-27", "type": "Unique Views", "value": 0},
       {"date": "2026-10-28", "type": "Unique Views", "value": 5},
       {"date": "2026-10-29", "type": "Unique Views", "value": 6},
-      {"date": "2026-10-30", "type": "Unique Views", "value": 1}
+      {"date": "2026-10-30", "type": "Unique Views", "value": 1},
+      {"date": "2026-10-31", "type": "Unique Views", "value": 0}
     ]
   },
   "mark": "line",
@@ -546,6 +548,7 @@
       {"date": "2026-10-28", "type": "Total Clones", "value": 8},
       {"date": "2026-10-29", "type": "Total Clones", "value": 1},
       {"date": "2026-10-30", "type": "Total Clones", "value": 1},
+      {"date": "2026-10-31", "type": "Total Clones", "value": 0},
       {"date": "2026-06-06", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-07", "type": "Unique Clones", "value": 6},
       {"date": "2026-06-08", "type": "Unique Clones", "value": 3},
@@ -692,7 +695,8 @@
       {"date": "2026-10-27", "type": "Unique Clones", "value": 1},
       {"date": "2026-10-28", "type": "Unique Clones", "value": 8},
       {"date": "2026-10-29", "type": "Unique Clones", "value": 1},
-      {"date": "2026-10-30", "type": "Unique Clones", "value": 1}
+      {"date": "2026-10-30", "type": "Unique Clones", "value": 1},
+      {"date": "2026-10-31", "type": "Unique Clones", "value": 0}
     ]
   },
   "mark": "line",
@@ -729,7 +733,6 @@
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
 | aocr.org | 7 | 7 |
-| github.com | 1 | 1 |
 
 ### bcggxx/NonGKI_Kernel_Build_2nd
 
@@ -898,6 +901,7 @@
       {"date": "2026-10-28", "type": "Total Views", "value": 4},
       {"date": "2026-10-29", "type": "Total Views", "value": 1},
       {"date": "2026-10-30", "type": "Total Views", "value": 0},
+      {"date": "2026-10-31", "type": "Total Views", "value": 0},
       {"date": "2026-06-01", "type": "Unique Views", "value": 0},
       {"date": "2026-06-02", "type": "Unique Views", "value": 0},
       {"date": "2026-06-03", "type": "Unique Views", "value": 0},
@@ -1049,7 +1053,8 @@
       {"date": "2026-10-27", "type": "Unique Views", "value": 0},
       {"date": "2026-10-28", "type": "Unique Views", "value": 2},
       {"date": "2026-10-29", "type": "Unique Views", "value": 1},
-      {"date": "2026-10-30", "type": "Unique Views", "value": 0}
+      {"date": "2026-10-30", "type": "Unique Views", "value": 0},
+      {"date": "2026-10-31", "type": "Unique Views", "value": 0}
     ]
   },
   "mark": "line",
@@ -1243,6 +1248,7 @@
       {"date": "2026-10-28", "type": "Total Clones", "value": 1},
       {"date": "2026-10-29", "type": "Total Clones", "value": 1},
       {"date": "2026-10-30", "type": "Total Clones", "value": 0},
+      {"date": "2026-10-31", "type": "Total Clones", "value": 0},
       {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-03", "type": "Unique Clones", "value": 0},
@@ -1394,7 +1400,8 @@
       {"date": "2026-10-27", "type": "Unique Clones", "value": 0},
       {"date": "2026-10-28", "type": "Unique Clones", "value": 1},
       {"date": "2026-10-29", "type": "Unique Clones", "value": 1},
-      {"date": "2026-10-30", "type": "Unique Clones", "value": 0}
+      {"date": "2026-10-30", "type": "Unique Clones", "value": 0},
+      {"date": "2026-10-31", "type": "Unique Clones", "value": 0}
     ]
   },
   "mark": "line",
@@ -1430,5 +1437,5 @@
 
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
-| github.com | 12 | 9 |
+| github.com | 9 | 6 |
 
