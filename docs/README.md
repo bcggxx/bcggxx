@@ -217,6 +217,7 @@
       {"date": "2026-11-03", "type": "Total Views", "value": 1},
       {"date": "2026-11-04", "type": "Total Views", "value": 0},
       {"date": "2026-11-05", "type": "Total Views", "value": 1},
+      {"date": "2026-11-06", "type": "Total Views", "value": 0},
       {"date": "2026-06-06", "type": "Unique Views", "value": 0},
       {"date": "2026-06-07", "type": "Unique Views", "value": 0},
       {"date": "2026-06-08", "type": "Unique Views", "value": 0},
@@ -369,7 +370,8 @@
       {"date": "2026-11-02", "type": "Unique Views", "value": 0},
       {"date": "2026-11-03", "type": "Unique Views", "value": 1},
       {"date": "2026-11-04", "type": "Unique Views", "value": 0},
-      {"date": "2026-11-05", "type": "Unique Views", "value": 1}
+      {"date": "2026-11-05", "type": "Unique Views", "value": 1},
+      {"date": "2026-11-06", "type": "Unique Views", "value": 0}
     ]
   },
   "mark": "line",
@@ -564,6 +566,7 @@
       {"date": "2026-11-03", "type": "Total Clones", "value": 0},
       {"date": "2026-11-04", "type": "Total Clones", "value": 0},
       {"date": "2026-11-05", "type": "Total Clones", "value": 0},
+      {"date": "2026-11-06", "type": "Total Clones", "value": 0},
       {"date": "2026-06-06", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-07", "type": "Unique Clones", "value": 6},
       {"date": "2026-06-08", "type": "Unique Clones", "value": 3},
@@ -716,7 +719,8 @@
       {"date": "2026-11-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-11-03", "type": "Unique Clones", "value": 0},
       {"date": "2026-11-04", "type": "Unique Clones", "value": 0},
-      {"date": "2026-11-05", "type": "Unique Clones", "value": 0}
+      {"date": "2026-11-05", "type": "Unique Clones", "value": 0},
+      {"date": "2026-11-06", "type": "Unique Clones", "value": 0}
     ]
   },
   "mark": "line",
@@ -927,6 +931,7 @@
       {"date": "2026-11-03", "type": "Total Views", "value": 0},
       {"date": "2026-11-04", "type": "Total Views", "value": 0},
       {"date": "2026-11-05", "type": "Total Views", "value": 2},
+      {"date": "2026-11-06", "type": "Total Views", "value": 0},
       {"date": "2026-06-01", "type": "Unique Views", "value": 0},
       {"date": "2026-06-02", "type": "Unique Views", "value": 0},
       {"date": "2026-06-03", "type": "Unique Views", "value": 0},
@@ -1084,7 +1089,8 @@
       {"date": "2026-11-02", "type": "Unique Views", "value": 0},
       {"date": "2026-11-03", "type": "Unique Views", "value": 0},
       {"date": "2026-11-04", "type": "Unique Views", "value": 0},
-      {"date": "2026-11-05", "type": "Unique Views", "value": 2}
+      {"date": "2026-11-05", "type": "Unique Views", "value": 2},
+      {"date": "2026-11-06", "type": "Unique Views", "value": 0}
     ]
   },
   "mark": "line",
@@ -1284,6 +1290,7 @@
       {"date": "2026-11-03", "type": "Total Clones", "value": 1},
       {"date": "2026-11-04", "type": "Total Clones", "value": 0},
       {"date": "2026-11-05", "type": "Total Clones", "value": 0},
+      {"date": "2026-11-06", "type": "Total Clones", "value": 0},
       {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-03", "type": "Unique Clones", "value": 0},
@@ -1441,7 +1448,8 @@
       {"date": "2026-11-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-11-03", "type": "Unique Clones", "value": 1},
       {"date": "2026-11-04", "type": "Unique Clones", "value": 0},
-      {"date": "2026-11-05", "type": "Unique Clones", "value": 0}
+      {"date": "2026-11-05", "type": "Unique Clones", "value": 0},
+      {"date": "2026-11-06", "type": "Unique Clones", "value": 0}
     ]
   },
   "mark": "line",
