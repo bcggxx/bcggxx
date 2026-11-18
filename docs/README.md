@@ -10,7 +10,7 @@
   "title": "Top 10 Repositories by Visitors",
   "data": {
     "values": [
-      {"repository": "NonGKI_Kernel_Build_2nd", "views": 1680}, {"repository": "android_kernel_xiaomi_n0_pipa", "views": 1647}
+      {"repository": "NonGKI_Kernel_Build_2nd", "views": 1681}, {"repository": "android_kernel_xiaomi_n0_pipa", "views": 1667}
     ]
   },
   "mark": {
@@ -228,6 +228,7 @@
       {"date": "2026-11-14", "type": "Total Views", "value": 0},
       {"date": "2026-11-15", "type": "Total Views", "value": 0},
       {"date": "2026-11-16", "type": "Total Views", "value": 9},
+      {"date": "2026-11-17", "type": "Total Views", "value": 20},
       {"date": "2026-06-06", "type": "Unique Views", "value": 0},
       {"date": "2026-06-07", "type": "Unique Views", "value": 0},
       {"date": "2026-06-08", "type": "Unique Views", "value": 0},
@@ -391,7 +392,8 @@
       {"date": "2026-11-13", "type": "Unique Views", "value": 0},
       {"date": "2026-11-14", "type": "Unique Views", "value": 0},
       {"date": "2026-11-15", "type": "Unique Views", "value": 0},
-      {"date": "2026-11-16", "type": "Unique Views", "value": 2}
+      {"date": "2026-11-16", "type": "Unique Views", "value": 2},
+      {"date": "2026-11-17", "type": "Unique Views", "value": 2}
     ]
   },
   "mark": "line",
@@ -597,6 +599,7 @@
       {"date": "2026-11-14", "type": "Total Clones", "value": 0},
       {"date": "2026-11-15", "type": "Total Clones", "value": 0},
       {"date": "2026-11-16", "type": "Total Clones", "value": 1},
+      {"date": "2026-11-17", "type": "Total Clones", "value": 0},
       {"date": "2026-06-06", "type": "Unique Clones", "value": 1},
       {"date": "2026-06-07", "type": "Unique Clones", "value": 6},
       {"date": "2026-06-08", "type": "Unique Clones", "value": 3},
@@ -760,7 +763,8 @@
       {"date": "2026-11-13", "type": "Unique Clones", "value": 0},
       {"date": "2026-11-14", "type": "Unique Clones", "value": 0},
       {"date": "2026-11-15", "type": "Unique Clones", "value": 0},
-      {"date": "2026-11-16", "type": "Unique Clones", "value": 1}
+      {"date": "2026-11-16", "type": "Unique Clones", "value": 1},
+      {"date": "2026-11-17", "type": "Unique Clones", "value": 0}
     ]
   },
   "mark": "line",
@@ -796,7 +800,7 @@
 
 | Referral Source | Views | Unique Visitors |
 |-|-|-|
-| github.com | 3 | 2 |
+| github.com | 7 | 3 |
 | aocr.org | 1 | 1 |
 
 ### bcggxx/NonGKI_Kernel_Build_2nd
@@ -983,6 +987,7 @@
       {"date": "2026-11-14", "type": "Total Views", "value": 0},
       {"date": "2026-11-15", "type": "Total Views", "value": 1},
       {"date": "2026-11-16", "type": "Total Views", "value": 5},
+      {"date": "2026-11-17", "type": "Total Views", "value": 1},
       {"date": "2026-06-01", "type": "Unique Views", "value": 0},
       {"date": "2026-06-02", "type": "Unique Views", "value": 0},
       {"date": "2026-06-03", "type": "Unique Views", "value": 0},
@@ -1151,7 +1156,8 @@
       {"date": "2026-11-13", "type": "Unique Views", "value": 0},
       {"date": "2026-11-14", "type": "Unique Views", "value": 0},
       {"date": "2026-11-15", "type": "Unique Views", "value": 1},
-      {"date": "2026-11-16", "type": "Unique Views", "value": 1}
+      {"date": "2026-11-16", "type": "Unique Views", "value": 1},
+      {"date": "2026-11-17", "type": "Unique Views", "value": 1}
     ]
   },
   "mark": "line",
@@ -1362,6 +1368,7 @@
       {"date": "2026-11-14", "type": "Total Clones", "value": 0},
       {"date": "2026-11-15", "type": "Total Clones", "value": 1},
       {"date": "2026-11-16", "type": "Total Clones", "value": 1},
+      {"date": "2026-11-17", "type": "Total Clones", "value": 0},
       {"date": "2026-06-01", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-02", "type": "Unique Clones", "value": 0},
       {"date": "2026-06-03", "type": "Unique Clones", "value": 0},
@@ -1530,7 +1537,8 @@
       {"date": "2026-11-13", "type": "Unique Clones", "value": 0},
       {"date": "2026-11-14", "type": "Unique Clones", "value": 0},
       {"date": "2026-11-15", "type": "Unique Clones", "value": 1},
-      {"date": "2026-11-16", "type": "Unique Clones", "value": 1}
+      {"date": "2026-11-16", "type": "Unique Clones", "value": 1},
+      {"date": "2026-11-17", "type": "Unique Clones", "value": 0}
     ]
   },
   "mark": "line",
